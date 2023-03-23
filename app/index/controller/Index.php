@@ -12,6 +12,6 @@ class Index extends BaseController
 
     public function hello($name = 'ThinkPHP6')
     {
-        return 'This is Index App => hello,' . $name;
+        return 'This is Index App => hello1,' . $name;
     }
 }
